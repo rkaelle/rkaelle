@@ -1,7 +1,7 @@
 <h1 align="center">Hi :milky_way:, I'm rkalesalad</h1>
 <p align="left">
   <a href="https://github.com/rkalesalad"><img alt="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-  <a href="Discord"><img alt="rk#1120" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
+  <a><img alt="Discord - rk#1120" title="Discord - rk#1120" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
   <a href="https://www.linkedin.com/in/ryan-kaelle-aa6a171b8/"><img alt="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
   <a href="#"><img alt="Warframe - Arrow648" title="Warframe - Arrow648" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/warframe.svg"></a>
 </p>
