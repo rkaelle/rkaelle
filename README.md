@@ -12,11 +12,11 @@
 
 - I’m currently working on [rkcoin](https://github.com/rkalesalad/rk-coin)
 
-- I’m currently learning **AI , solidity , python , c++**
+- I’m currently learning **AI , Solidity , Python , Java**
 
 - I’m looking to collaborate on **a cryptocurrency**
 
-- I’m looking for help with [python chatroom with sockets](https://github.com/rkalesalad/rk-chatoom)
+- I’m looking for help with [css and front end website design (for the cryptocurrency)](https://github.com/rkalesalad/rk-coin)
 
 - All of my projects are available at [https://github.com/rkalesalad](https://github.com/rkalesalad)
 
@@ -24,7 +24,7 @@
 
 - How to reach me **enderbike02@tutanota.com**
 
-- Fun fact **I have my amateur radio license**
+- Fun fact **I have my amateur radio license, KN6OJE!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
