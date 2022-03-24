@@ -26,6 +26,8 @@
 
 - Fun fact **I have my amateur radio license, KN6OJE!!**
 
+- Projects on my list include nft-collection, POS/ERC cryptos, portfolio website, dApp, discord bot, frequency analysis 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ryan-kaelle-aa6a171b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Ryan Kaelle" height="30" width="40" /></a>
