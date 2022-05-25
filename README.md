@@ -8,12 +8,12 @@
 src="https://komarev.com/ghpvc/?username=rkalesalad&label=Profile%20views&color=0e75b6&style=flat"</a>
   
 </p>
-<h2 align="left"> I am a high school student with aims to stude Comsci , EE, or Business </h2>
+<h2 align="left">I am a high school student with aims to stude Comsci , EE, or Business </h2>
 <h3 align="left">I am developing my skills in the areas of blockchain , web3 , solidity , and python</h3>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- I’m currently working on [rkcoin](https://github.com/rkalesalad/rk-coin)
+- I’m currently working on[rkcoin](https://github.com/rkalesalad/rk-coin)
 
 - I’m currently learning **AI , Solidity , Python , Java**
 
