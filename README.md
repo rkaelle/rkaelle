@@ -13,7 +13,7 @@ src="https://komarev.com/ghpvc/?username=rkalesalad&label=Profile%20views&color=
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- I’m currently working on[rkcoin](https://github.com/rkalesalad/rk-coin)
+- I'm currently working on[rkcoin](https://github.com/rkalesalad/rk-coin)
 
 - I’m currently learning **AI , Solidity , Python , Java**
 
