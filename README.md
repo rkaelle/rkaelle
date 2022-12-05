@@ -1,4 +1,4 @@
-<h1 align="center">Hi :milky_way:, I'm rkalesalad</h1>
+<h1 align="center">Hi :milky_way:, I'm Ryan Kaelle (rkalesalad)</h1>
 
 <p align="left">
   <a href="https://github.com/rkalesalad"><img alt="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
