@@ -8,16 +8,16 @@
 src="https://komarev.com/ghpvc/?username=rkalesalad&label=Profile%20views&color=0e75b6&style=flat"</a>
   
 </p>
-<h2 align="left">I am a high school student with aims to stude Comsci , EE, or Business </h2>
-<h3 align="left">I am developing my skills in the areas of blockchain , web3 , solidity , and python</h3>
+<h2 align="left">I am a high school student with aims to study EE, finance, and CS</h2>
+<h3 align="left">I am currently developing my skills in the areas of web3, algo trading, and python</h3>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - I'm currently working on[rkcoin](https://github.com/rkalesalad/rk-coin)
 
-- I’m currently learning **AI , Solidity , Python , Java**
+- I’m currently learning **Python , Java , Tensorflow, and Numpy**
 
-- I’m looking to collaborate on **a cryptocurrency**
+- I’m looking to collaborate on **neural net**
 
 - I’m looking for help with [css and front end website design (for the cryptocurrency)](https://github.com/rkalesalad/rk-coin)
 
