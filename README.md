@@ -1,11 +1,11 @@
-<h1 align="center">Hi :milky_way:, I'm Ryan Kaelle (rkalesalad)</h1>
+<h1 align="center">Hi :milky_way:, I'm Ryan Kaelle (rkaelle)</h1>
 
 <p align="left">
-  <a href="https://github.com/rkalesalad"><img alt="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+  <a href="https://github.com/rkaelle"><img alt="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
   <a><img alt="Discord - rk#1120" title="Discord - rk#1120" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
   <a href="https://www.linkedin.com/in/ryan-kaelle-aa6a171b8/"><img alt="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
-  <a href ="https://github.com/rkalesalad"><img alt ="rkalesalad" align="right"
-src="https://komarev.com/ghpvc/?username=rkalesalad&label=Profile%20views&color=0e75b6&style=flat"</a>
+  <a href ="https://github.com/rkaelle"><img alt ="rkaelle" align="right"
+src="https://komarev.com/ghpvc/?username=rkaelle&label=Profile%20views&color=0e75b6&style=flat"</a>
   
 </p>
 <h2 align="left">I am a high school student with aims to study EE, finance, and CS</h2>
@@ -13,7 +13,7 @@ src="https://komarev.com/ghpvc/?username=rkalesalad&label=Profile%20views&color=
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- I'm currently working on [rkcoin](https://github.com/rkalesalad/rk-coin)
+- I'm currently working on [rkcoin](https://github.com/rkaelle/rk-coin)
 
 - I'm currently taking a Udemy [python for finance course](https://www.udemy.com/course/python-for-finance-and-algorithmic-trading-with-quantconnect/)
 
@@ -21,9 +21,9 @@ src="https://komarev.com/ghpvc/?username=rkalesalad&label=Profile%20views&color=
 
 - I’m looking to collaborate on **neural net**
 
-- I’m looking for help with [css and front end website design (for the cryptocurrency)](https://github.com/rkalesalad/rk-coin)
+- I’m looking for help with [css and front end website design (for the cryptocurrency)](https://github.com/rkaelle/rk-coin)
 
-- All of my projects are available at [https://github.com/rkalesalad](https://github.com/rkalesalad)
+- All of my projects are available at [https://github.com/rkaelle](https://github.com/rkaelle)
 
 - Ask me about **crypto , cars, nfts, and bikes!**
 
@@ -45,6 +45,6 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 href="https://www.raspberrypi.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkalesalad&show_icons=true&locale=en&layout=compact" alt="rkalesalad" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkaelle&show_icons=true&locale=en&layout=compact" alt="rkaelle" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkalesalad&show_icons=true&locale=en" alt="rkalesalad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkaelle&show_icons=true&locale=en" alt="rkaelle" /></p>
