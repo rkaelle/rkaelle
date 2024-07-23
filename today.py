@@ -5,10 +5,6 @@ import os
 from xml.dom import minidom
 import time
 import hashlib
-from dotenv import load_dotenv
-
-# Load environment variables from .env file
-load_dotenv()
 
 
 # Personal access token with permissions: read:enterprise, read:org, read:repo_hook, read:user, repo
